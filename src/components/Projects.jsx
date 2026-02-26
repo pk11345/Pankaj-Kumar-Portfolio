@@ -1,4 +1,6 @@
+
 const projects = [
+  { name: "Smart Notes App ", link: "https://notes-app-delta-wine.vercel.app/" },
   { name: "ShopCart – MERN Stack E-commerce", link: "https://shop-cart-1ox2.vercel.app/" },
   { name: "GhumoPhiro – Hotel Booking App", link: "https://github.com/pk11345/GhumoPhiro" },
   { name: "Task Management (React + Tailwind)", link: "https://task-management-drab-three.vercel.app/" },
